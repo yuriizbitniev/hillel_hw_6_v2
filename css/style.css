@@ -1,0 +1,29 @@
+
+.images {
+    width: 790px;
+    margin: 0;
+}
+
+.about {
+    display:inline-block;
+    background-color: #E0E0E0;
+    height: 226px;
+    width: 200px;
+    margin: 0 30px 30px 0;
+}
+
+.about img {
+    display:block;
+    margin: auto;
+}
+
+h3 {
+    margin: 10px 0 10px 0;
+    text-align: center;
+;
+}
+
+p {
+    margin: 5px;
+    text-align: center;
+}
